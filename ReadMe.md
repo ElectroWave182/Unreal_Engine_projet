@@ -1,1 +1,2 @@
+Projet GitLab :
 https://gitlab.com/eternal-wounds-team/eternal-wounds/-/tree/main?ref_type=heads
